@@ -1,0 +1,43 @@
+CAMPUS PORTAL
+=============
+
+PROJECT FILES
+-------------
+1. index.html
+   The main webpage. It contains the Campus Portal page structure and loads
+   the CSS and JavaScript files.
+
+2. style.css
+   Controls the appearance of the portal, including colors, gradients,
+   graphics, spacing, and responsive styling.
+
+3. script.js
+   Contains the JavaScript that powers the portal's interactive features,
+   such as login and the dashboard sections.
+
+HOW TO RUN
+----------
+1. Download index.html, style.css, and script.js.
+2. Create a folder named Campus Portal.
+3. Place all three files directly inside that same folder.
+4. Make sure the filenames stay exactly as shown above.
+5. Open index.html in a web browser (for example, Chrome or Edge).
+
+IMPORTANT
+---------
+Keep all three files in the same folder. The HTML file links to style.css
+and script.js using their filenames. If you rename or move either file,
+the page may not load its styling or interactive features.
+
+TROUBLESHOOTING
+---------------
+- If the page has no styling, check that style.css is beside index.html.
+- If buttons or interactive features do not work, check that script.js is
+  beside index.html and that its filename is spelled correctly.
+- Refresh the browser after changing any of the files.
+
+NOTE
+----
+This README explains how to arrange and open the supplied front-end project.
+Any server-side services or database setup, if required by a future version,
+are not included in these instructions.
